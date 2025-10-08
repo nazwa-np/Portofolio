@@ -1,0 +1,25 @@
+const errorHandler = (err, req, res, next) => {
+  console.error(err.stack); // Log kesalahan ke konsol
+
+  // Tangani kesalahan berdasarkan jenisnya
+  if (err.name === 'ValidationError') {
+    // Kesalahan validasi input
+    const validationErrors = {};
+
+    err.errors.forEach(error => {
+      validationErrors[error.param] = error.msg;
+    });
+
+    return res.status(400).json({
+      message: 'Validation Error',
+      detail: validationErrors,
+    });
+  } else {
+    // Kesalahan umum
+    return res.status(404).json({
+      message: 'Log in Failed',
+    });
+  }
+}
+  
+module.exports = errorHandler;

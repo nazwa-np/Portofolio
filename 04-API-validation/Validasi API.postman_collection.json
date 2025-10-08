@@ -1,0 +1,82 @@
+{
+	"info": {
+		"_postman_id": "f2614eb8-d03b-47d7-a677-3204c3804250",
+		"name": "Validasi API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "29459012"
+	},
+	"item": [
+		{
+			"name": "Register",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"fullName\": \"Bayu Setiawan\",\r\n  \"email\": \"bayu@skyshi.com\",\r\n  \"password\": \"Passw0rd!\",\r\n  \"bio\": \"Backend Developer @SkyshiDigitalIndonesia\",\r\n  \"dob\": \"1997-06-30\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:3500/auth/register",
+					"host": [
+						"localhost"
+					],
+					"port": "3500",
+					"path": [
+						"auth",
+						"register"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Login",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"email\": \"bayu@skyshi.com\",\r\n  \"password\": \"Passw0rd!\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:3500/auth/login",
+					"host": [
+						"localhost"
+					],
+					"port": "3500",
+					"path": [
+						"auth",
+						"login"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "User",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "User ID",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
