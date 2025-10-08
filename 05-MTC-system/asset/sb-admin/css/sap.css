@@ -1,0 +1,72 @@
+        body, html {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+        }
+        .top-container {
+            flex: 1;
+            border: 1px solid #ccc;
+            margin: 10px;
+            padding: 20px;
+            overflow: auto;
+            border-radius: 10px 10px 0 0;
+            max-height: 50vh; /* Mengatur tinggi maksimum menjadi 50% dari tinggi viewport */
+        }
+        .top-container {
+            border-radius: 10px 10px 0 0;
+        }
+        .bottom-container {
+            border-radius: 0 0 10px 10px;
+        }
+        table {
+            width: 125%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+            background-color: #ffffff;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 12px;
+            text-align: left;
+        }
+        th {
+            background-color: #151515;
+            color: white;
+        }
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+        tr:hover {
+            background-color: #e9ecef;
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            text-align: center;
+            text-decoration: none;
+            outline: none;
+            color: #fff;
+            background-color: #007bff;
+            border: none;
+            border-radius: 15px;
+            box-shadow: 0 4px #999;
+        }
+        .button:hover {
+            background-color: #0069d9;
+        }
+        .button:active {
+            background-color: #0069d9;
+            box-shadow: 0 2px #666;
+            transform: translateY(2px);
+        }
+        #selected-data {
+            margin-top: 20px;
+        }
