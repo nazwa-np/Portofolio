@@ -24,6 +24,24 @@ Welcome! I'm passionate about Full Stack Web Development and enjoy creating effi
 | [Learn Academy]( https://github.com/nazwa-np/Portofolio/tree/c28b1a5e2dfe12e6f75e16efd3ac6b74dc05e759/07-learn-academy) |A PHP-based online learning platform that allows students to access materials, complete exercises and quizzes, and track progress, while teachers can upload content, assign tasks, and manage grading digitally |
 
 ---
+## 🛠️ Tools & Techniques
+- **Frameworks & Languages:** Laravel, PHP, Node.js, JavaScript  
+- **Frontend:** HTML, CSS, JavaScript, Blade  
+- **Database:** MySQL, MongoDB (optional for API Integration)  
+- **API & Integration:** RESTful API, Axios, Postman, Express.js  
+- **Algorithms & Automation:** Genetic Algorithm (PHP), Python scripting for automation and log filtering  
+- **Version Control:** Git, GitHub  
+- **Deployment & Servers:** Apache, Nginx  
+- **Testing & Monitoring:** Console debugging, Mocha/Chai (for API Validation)  
 
+---
+## 📬 Contact Me
+
+✉️ Email: [nazwa.np6@gmail.com](mailto:nazwa.np6@gmail.com)  
+💼 LinkedIn: [https://www.linkedin.com/in/nazwa-nurfadhilla-phitri-616110224](https://www.linkedin.com/in/nazwa-nurfadhilla-phitri-616110224)  
+📦 GitHub Repos: [https://github.com/nazwa-np](https://github.com/nazwa-np)
+
+---
+“Thanks for checking out my work! This portfolio will continue to expand as I complete more projects, refine my skills, and tackle new challenges.”
 
 
