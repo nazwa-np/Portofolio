@@ -38,7 +38,7 @@ Welcome! I'm passionate about Full Stack Web Development and enjoy creating effi
 ## 📬 Contact Me
 
 ✉️ Email: [nazwa.np6@gmail.com](mailto:nazwa.np6@gmail.com)  
-💼 LinkedIn: [https://www.linkedin.com/in/nazwa-nurfadhilla-phitri-616110224](https://www.linkedin.com/in/nazwa-nurfadhilla-phitri-616110224)  
+💼 LinkedIn: [https://www.linkedin.com/in/nazwa-nurfadhilla-phitri](https://www.linkedin.com/in/nazwa-nurfadhilla-phitri)  
 📦 GitHub Repos: [https://github.com/nazwa-np](https://github.com/nazwa-np)
 
 ---
