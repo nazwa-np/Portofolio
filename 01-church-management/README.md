@@ -1,1 +1,27 @@
+## Church Management System – Genetic Algorithm Optimization
+
+📄 **Description**  
+This project focuses on optimizing church event and resource management using a Genetic Algorithm.  
+Built with Laravel, it automates scheduling for worship services, volunteers, and facilities to minimize time conflicts and maximize efficiency.
+
+---
+
+🧰 **Tools & Skills**  
+**Tools:** Laravel, PHP, MySQL, Visual Studio Code  
+**Skills:** Full Stack Web Development, Algorithm Implementation, Database Design, Optimization Techniques  
+
+---
+
+🧪 **Scenario**  
+Manual scheduling in church activities often leads to overlapping events and inefficient resource allocation.  
+This system applies a Genetic Algorithm to automatically generate optimal schedules by evaluating time slots, available staff, and facility constraints.
+
+---
+
+✅ **Outcome & Benefits**  
+- Improved efficiency and accuracy in church scheduling  
+- Reduced human error in event planning  
+- Scalable system for broader community management needs  
+- Demonstrates integration of Artificial Intelligence concepts within Laravel-based applications
+
 
