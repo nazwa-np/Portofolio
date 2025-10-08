@@ -16,10 +16,20 @@ Welcome! I'm passionate about Full Stack Web Development and enjoy creating effi
 | Project | Summary |
 |----------|----------|
 | [Church Management System – Genetic Algorithm Optimization](https://github.com/nazwa-np/Portofolio/tree/6938d528e9c1847cc851ca35b518436746ba3857/01-church-management) | This project aims to optimize church event and resource management using a Genetic Algorithm. Built with the Laravel framework, the system automatically schedules worship services, volunteer assignments, and the use of church facilities |
-| [SQL Log Analysis – Suspicious Logins](#) | Used SQL to filter login anomalies based on time, location, and behavior patterns |
-| [SYN Flood Attack – TCP Exploitation Report](#) | Explained how attackers abuse the TCP handshake and proposed network-level defenses |
-| [Python Automation – IP Filter Tool](#) | Wrote a Python script to clean IP access files, improving ACL hygiene and accountability |
-| [Access Control Incident – Dormant Account Abuse](#) | Investigated misuse of an inactive contractor account and mapped findings to NIST controls |
-```
+| [LKD System]( https://github.com/nazwa-np/Portofolio/tree/c28b1a5e2dfe12e6f75e16efd3ac6b74dc05e759/02-sistem-LKD
+) | A Laravel-based web application for lecturer performance evaluation, enabling lecturers to submit and track evaluation forms digitally, while administrators can verify submissions and generate performance reports efficiently |
+| [Smart Academy Scheduler]( https://github.com/nazwa-np/Portofolio/blob/c28b1a5e2dfe12e6f75e16efd3ac6b74dc05e759/03-smart-academy-scheduler
+) | A Laravel-based web application that uses a Genetic Algorithm to automatically generate optimized academic schedules, considering lecturer availability, course load, and classroom capacity, resulting in conflict-free timetables |
+| [API Validation]( https://github.com/nazwa-np/Portofolio/tree/c28b1a5e2dfe12e6f75e16efd3ac6b74dc05e759/04-API-validation
+) | A JavaScript-based web application for testing, validating, and monitoring RESTful APIs, ensuring accurate responses, secure endpoints, and real-time error detection for developers. |
+| [MTC System]( https://github.com/nazwa-np/Portofolio/tree/c28b1a5e2dfe12e6f75e16efd3ac6b74dc05e759/05-MTC-system
+) | A PHP-based web application for managing company material data, allowing users to track, record, and update materials in real time, with integrated dashboards for data-driven decision-making |
+| [MSIB API Integration System]( https://github.com/nazwa-np/Portofolio/tree/c28b1a5e2dfe12e6f75e16efd3ac6b74dc05e759/06-MSIB-API-developer
+) | A Node.js-based developed for the Kampus Merdeka Program, integrating RESTful APIs with mobile applications to enable seamless data synchronization, authentication, and real-time access.|
+| [Learn Academy]( https://github.com/nazwa-np/Portofolio/tree/c28b1a5e2dfe12e6f75e16efd3ac6b74dc05e759/07-learn-academy
+) |A PHP-based online learning platform that allows students to access materials, complete exercises and quizzes, and track progress, while teachers can upload content, assign tasks, and manage grading digitally |
+
+---
+
 
 
